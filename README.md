@@ -29,9 +29,9 @@ In this project you'll build an app that will keep track of memebers of a team. 
 Follow these steps for completing your project.
 
 - [X ] Submit a Pull-Request to merge <firstName-lastName> Branch into master (student's Repository). **Please don't merge your own pull request**
-- [ ] Add your team lead as a reviewer on the pull-request
-- [ ] Your team lead will count the project as complete by merging the branch back into master.
-- [ ] Do your magic!
+- [ X] Add your team lead as a reviewer on the pull-request
+- [ X] Your team lead will count the project as complete by merging the branch back into master.
+- [ X] Do your magic!
 
 ## Minimum Viable Product
 
