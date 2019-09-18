@@ -10,10 +10,17 @@ function App() {
     {name:"dan", email:"dan@gmail.com", role:"electrician"},
     {name:"gary", email:"gary@gmail.com", role:"salesman"}
   ])
+
+  const addNewMember = member => {
+    // const newMember = {
+    //   id=name
+    // }
+    setTeam([...team, member]);
+  }
   return (
    <main>
      <Team team={team}></Team>
-     <Form></Form>
+     <Form addNewMember={addNewMember}></Form>
    </main>
   );
 }
